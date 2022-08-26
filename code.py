@@ -1,5 +1,5 @@
 x = 2 + 3
 print(x)
-print("Hello ploy")
+print("Hello Fern")
 
-print("Hello world****")
+print("A Whole new world~~~~")
