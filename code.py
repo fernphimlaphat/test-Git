@@ -1,5 +1,5 @@
-x = 2 + 3
-print(x)
-print("Hello ploy")
+y = 5 + 1
+print(y)
+print("พิมพ์")
 
-print("Hello world****")
+print("สวัสดี")
